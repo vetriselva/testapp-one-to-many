@@ -1,9 +1,16 @@
-laravel one to many 
+# testapp-one-to-many
 
-Setup local steps:
+steup locally steps
 
-1) clone project
-2) composer update
-3) php artisan make:migrate
-4) php artisna db:seed
-5) php artisan serve
+1)clone project 
+
+2)composer update
+
+3)php artisan migrate
+
+4)php artisan db::seed
+
+5)php artisan serve
+
+login username - admin@admin.com  
+      password - admin
